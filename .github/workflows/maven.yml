@@ -25,3 +25,5 @@ jobs:
         run: mvn package --file pom.xml
       - name: Download a Build Artifact
         uses: actions/download-artifact@v4.1.8
+      - name: Get build artifact ready
+        run: mkdir staging && cp target/*.jar staging
