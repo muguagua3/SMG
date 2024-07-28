@@ -33,7 +33,7 @@ public final class SMGItemSetup {
 
         new MaterialGenerator(
             SMGItems.SMG_ITEM_CATEGORY,
-            SMGItems.SMG_GENERATOR_ZHIZHUSI,
+            SMGItems.SMG_GENERATOR_STRING,
             RecipeType.ENHANCED_CRAFTING_TABLE,
             new ItemStack[] {
                 new ItemStack(Material.STRING), new ItemStack(Material.REDSTONE), new ItemStack(Material.STRING),
