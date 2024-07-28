@@ -51,7 +51,7 @@ public final class SMGItemSetup {
                 new ItemStack(Material.SMOOTH_STONE), new ItemStack(Material.SMOOTH_STONE), new ItemStack(Material.SMOOTH_STONE),
                 new ItemStack(Material.LAVA_BUCKET), new ItemStack(Material.IRON_PICKAXE), new ItemStack(Material.WATER_BUCKET),
                 new ItemStack(Material.SMOOTH_STONE), new ItemStack(Material.SMOOTH_STONE), new ItemStack(Material.SMOOTH_STONE)
-            }, COBBLESTONE)
+            }, 4)
             .setItem(Material.COBBLESTONE)
             .register(plugin);
 
