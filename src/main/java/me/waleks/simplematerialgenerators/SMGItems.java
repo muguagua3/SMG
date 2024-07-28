@@ -35,6 +35,14 @@ public final class SMGItems {
 		"&9&o简易材料生成器"
 	);
 	*/
+   public static final SlimefunItemStack SMG_GENERATOR_ZHIZHUSI = new SlimefunItemStack(
+        "SMG_GENERATOR_ZHIZHUSI",
+        Material.WHITH_WOOL,
+        "&7线生成器",
+        "&6速度: &e1 t",
+        "",
+        "&9&o简易材料生成器"
+    );
 
     public static final SlimefunItemStack SMG_GENERATOR_COBBLESTONE = new SlimefunItemStack(
         "SMG_GENERATOR_COBBLESTONE",
