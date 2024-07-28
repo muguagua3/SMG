@@ -37,7 +37,7 @@ public final class SMGItems {
 	*/
    public static final SlimefunItemStack SMG_GENERATOR_ZHIZHUSI = new SlimefunItemStack(
         "SMG_GENERATOR_ZHIZHUSI",
-        Material.WHITH_WOOL,
+        Material.WHITE_WOOL,
         "&7线生成器",
         "&6速度: &e1 t",
         "",
